@@ -17,7 +17,7 @@ Author:
 params:
   brand: HOME
   avatarURL: /images/avatar.png
-  author: Hugo Ladder
+  author: LXW学习笔记
   authorDescription: A clean, fast hugo theme focused on Reading
   info: Build a free and beautiful blog site to record your thoughts and increase your influence
   favicon: /images/avatar.ico
