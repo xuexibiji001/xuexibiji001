@@ -120,6 +120,11 @@ url = "/guestbook"
 weight = 4
 
 [[languages.zh.menu.main]]
+name = "关于"
+url = "/guestbook"
+weight = 5
+
+[[languages.zh.menu.main]]
 name = "网站统计"
 url = "https://umami-ochre-nu.vercel.app/share/R1lHz7QY/hugo-ladder-exampleSite"
 weight = 5
