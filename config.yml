@@ -59,7 +59,7 @@ languages:
           url: /guestbook
           weight: 4
           - name: 关于
-          url: /guestbook
+          url: /about
           weight: 5
    
 taxonomies:
