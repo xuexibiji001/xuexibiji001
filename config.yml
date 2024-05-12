@@ -58,9 +58,7 @@ languages:
         - name: 留言板
           url: /guestbook
           weight: 4
-        - name: 关于
-          url: /about
-          weight: 5
+       
    
 taxonomies:
   series: series
